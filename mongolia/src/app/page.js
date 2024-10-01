@@ -8,6 +8,7 @@ export default function Home() {
       <Footer />
       <p>Hello this part is made by MUNK-ERDENE</p>
       <p>And here we have sarahhH!!</p>
+      <h3 className="text-red-300">im not done by munkherdene</h3>
     </div>
   );
 }
