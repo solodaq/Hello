@@ -7,6 +7,7 @@ export default function Home() {
       <p>Hello fuckers</p>
       <Footer />
       <p>Hello this part is made by MUNK-ERDENE</p>
+      <p>And here we have sarahhH!!</p>
     </div>
   );
 }
